@@ -1,0 +1,1 @@
+### An application that looks for all unique words in a file and saves it to a list.

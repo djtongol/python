@@ -1,0 +1,1 @@
+### An application that enables the user to play madlibs with the computer by providing input prompted by the application.
